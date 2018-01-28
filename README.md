@@ -1,3 +1,13 @@
+## Star Wars Galaxies: Roleplay Edition ##
+
+### TC-Ghost ###
+
+Forums: 
+http://s15.zetaboards.com/swgrp/index/
+
+Discord: 
+https://discord.gg/FYnheS2
+
 # SWGEmu Core3 #
 
 ## What is SWGEmu? ##
@@ -48,7 +58,7 @@ At SWGEmu, Emulator refers to the software the SWGEmu team is building. This Emu
     ./core3
 
 ### License ###
-    Copyright (C) 2017 SWGEmu
+    Copyright (C) 2018 SWGEmu
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
